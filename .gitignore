@@ -1,7 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-#instructions
+#instructions and addn.files
 INSTRUCTIONS.md
+screenshots
 
 # dependencies
 /node_modules
